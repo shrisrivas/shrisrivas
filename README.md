@@ -1,5 +1,9 @@
 # 💫 About Me:
- I am looking for a full time position in the AI space, my passion is using AI powered tools and platforms to create smarter software.<br>🔭 I’m currently working on ML, CV and DA projects<br><br>🌱 I’m currently learning Data Science<br><br>👯 I’m looking to collaborate on Open Source Data Analytics Project<br><br>🤝 I’m looking for help with Google Play Store<br><br>👨‍💻 All of my projects are available at https://github.com/shrisrivas<br><br>📝 I regularly write articles on https://medium.com/@shristipr7<br>💬 Ask me about Data visualization , data processing , Motivation<br><br>📫 How to reach me, Gmail - shristipr7@gmail.com<br><br>Linkedin<br>https://www.linkedin.com/in/shristi-priya-366883131/<br><br><br>⚡ Fun fact ** I love connecting with different people so if you want to say hi, I’ll be happy to meet you more! 😊**
+📊 Customer Lifetime Value and rating calculation
+🔍 Thorough data analysis using Python, SQL, and Excel
+📈 Data visualization with Tableau and Power BI
+🤝 Collaborative approach with cross-functional teams
+💡 Setup and operation of Customer Intelligence for profiling and segmentation**
 
 
 ## 🌐 Socials:
