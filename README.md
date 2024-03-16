@@ -1,8 +1,8 @@
 # 💫 About Me:
-📊 Customer Lifetime Value and rating calculation
-🔍 Thorough data analysis using Python, SQL, and Excel
-📈 Data visualization with Tableau and Power BI
-🤝 Collaborative approach with cross-functional teams
+📊 Customer Lifetime Value and rating calculation<br/>
+🔍 Thorough data analysis using Python, SQL, and Excel<br/>
+📈 Data visualization with Tableau and Power BI<br/>
+🤝 Collaborative approach with cross-functional teams<br/>
 💡 Setup and operation of Customer Intelligence for profiling and segmentation**
 
 
