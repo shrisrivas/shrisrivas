@@ -1,4 +1,5 @@
 # 💫 About Me:
+🔍 Passionate about implementing end to end Machine Learning across Industry domains through predictive modeling, quantitative analysis,business insights through data visualisation and Deployment. <be/>
 📊 Customer Lifetime Value and rating calculation<br/>
 🔍 Thorough data analysis using Python, SQL, and Excel<br/>
 📈 Data visualization with Tableau and Power BI<br/>
